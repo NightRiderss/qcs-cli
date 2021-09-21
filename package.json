@@ -2,6 +2,7 @@
   "name": "qcs-cli",
   "version": "0.1.0",
   "license": "MIT",
+  "main": "index.js",
   "author": {
     "name": "qgz",
     "email": "782251193@qq.com"
