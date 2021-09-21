@@ -2,6 +2,7 @@
   "name": "qcs-cli",
   "version": "0.1.0",
   "license": "MIT",
+  "private":false,
   "main": "index.js",
   "author": {
     "name": "qgz",
